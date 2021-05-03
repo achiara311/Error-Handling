@@ -1,0 +1,7 @@
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ErrorHandling\01ThrowExpressions\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ErrorHandling\01ThrowExpressions\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ErrorHandling\01ThrowExpressions\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ErrorHandling\01ThrowExpressions\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ErrorHandling\01ThrowExpressions\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ErrorHandling\01ThrowExpressions\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ErrorHandling\01ThrowExpressions\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
